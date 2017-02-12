@@ -70,6 +70,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGPTYTDS
 
+[Document3]
+DocumentPath=MPU9250.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PKRKESRX
+
+[Document4]
+DocumentPath=MPU9250.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XBIBOCCB
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -140,7 +174,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=HP Officejet 6600 Class Driver
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembler Source Print
 OutputName1=Assembler Source Prints
@@ -884,6 +918,24 @@ NetClassManualEnabled=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Miscellaneous Devices.IntLib
+ComponentDesignItemID0=Cap
+ComponentSymbolReference0=Cap
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=MPU9250.SchLib
+ComponentDesignItemID1=MPU 9250
+ComponentSymbolReference1=MPU 9250
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=MPU9250.SchLib
+ComponentDesignItemID2=SJ2
+ComponentSymbolReference2=SJ2
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -897,6 +949,46 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=LatestRevisionDate
+ParameterUpdate3=1
+ParameterName4=LatestRevisionNote
+ParameterUpdate4=1
+ParameterName5=Library Reference
+ParameterUpdate5=1
+ParameterName6=PackageDescription
+ParameterUpdate6=1
+ParameterName7=PackageReference
+ParameterUpdate7=1
+ParameterName8=Published
+ParameterUpdate8=1
+ParameterName9=Publisher
+ParameterUpdate9=1
+ParameterName10=Value
+ParameterUpdate10=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=MPU 9250
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=RAD-0.3
+ModelUpdate1=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType2=SI
+ModelName2=Cap
+ModelUpdate2=1
+ModelTypeGroup2=SIM
+ModelTypeUpdate2=1
+ModelType3=SIM
+ModelName3=CAP
+ModelUpdate3=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -910,4 +1002,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
