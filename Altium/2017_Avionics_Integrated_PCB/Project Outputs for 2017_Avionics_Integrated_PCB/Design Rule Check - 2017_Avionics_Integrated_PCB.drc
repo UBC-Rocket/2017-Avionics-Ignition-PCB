@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\thekenu\Documents\UBC(GitHub)\UBC Rocket\2017-Avionics-Ignition-PCB\Altium\2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.PcbDoc
 Date     : 17/04/2017
-Time     : 7:45:40 PM
+Time     : 7:53:51 PM
 
 Processing Rule : Silk primitive without silk layer
 Rule Violations :0
@@ -37,8 +37,7 @@ Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.25mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.25mm) Between Text "P3" (-28.422mm,13.031mm) on Top Overlay And Track (-30.5mm,13.5mm)(-12.1mm,13.5mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -47,5 +46,5 @@ Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 
-Violations Detected : 1
-Time Elapsed        : 00:00:01
+Violations Detected : 0
+Time Elapsed        : 00:00:00
