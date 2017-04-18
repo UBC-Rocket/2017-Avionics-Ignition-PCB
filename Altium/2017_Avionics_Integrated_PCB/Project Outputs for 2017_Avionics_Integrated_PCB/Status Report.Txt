@@ -1,9 +1,12 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [2017_Avionics_Integrated_PCB.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [2017_Avionics_Integrated_PCB.PrjPcb]
+   Generated File[2017_Avionics_Integrated_PCB-Plated.TXT]
+   Generated File[2017_Avionics_Integrated_PCB.LDP]
+   Generated File[2017_Avionics_Integrated_PCB.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 5:06:22 PM On 16/04/2017
+Finished Output Generation At 9:27:17 PM On 17/04/2017
