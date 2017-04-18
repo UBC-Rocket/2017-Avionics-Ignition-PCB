@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\thekenu\Documents\UBC(GitHub)\UBC Rocket\2017-Avionics-Ignition-PCB\Altium\2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.PcbDoc
 Date     : 17/04/2017
-Time     : 8:28:28 PM
+Time     : 8:37:21 PM
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -47,4 +47,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

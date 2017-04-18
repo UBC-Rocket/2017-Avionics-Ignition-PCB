@@ -1,0 +1,22 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~301|Field=Description~String~Description~888|Field=Designator~String~Designator~126|Field=LibRef~String~LibRef~334|Field=Quantity~Integer~Quantity~90|Field=Supplier Part Number 1~String~Supplier Part Number 1~267|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~2017_Avionics_Integrated_PCB.PrjPcb|ReportField=ProjectFullPath~C:\Users\thekenu\Documents\UBC(GitHub)\UBC Rocket\2017-Avionics-Ignition-PCB\Altium\2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.PrjPcb|ReportField=Title~Bill of Materials For Project [2017_Avionics_Integrated_PCB.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~43|ReportField=ReportTime~8:31:16 PM|ReportField=ReportDate~17/04/2017|ReportField=ReportDateTime~17/04/2017 8:31:16 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~17/04/2017|ReportField=CurrentTime~8:28:42 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\thekenu\Documents\UBC(GitHub)\UBC Rocket\2017-Avionics-Ignition-PCB\Altium\2017_Avionics_Integrated_PCB\2017_Avionics_Delay_PCB.SchDoc|ReportField=DocumentName~2017_Avionics_Delay_PCB.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~17/04/2017|ReportField=Organization~|ReportField=ProjectName~2017_Avionics_Integrated_PCB.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~2017_Avionics_Integrated_PCB.PrjPcb|ReportField=DataSourceFullPath~C:\Users\thekenu\Documents\UBC(GitHub)\UBC Rocket\2017-Avionics-Ignition-PCB\Altium\2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.PrjPcb
+1|Header 8|Header, 8-Pin|P3|Header 8|1|WM10684-ND
+2|Nose Cone Ignitor (COTS), COTS Input Signals, Drogue & Main Chute Ignitors (COTS)|Header, 4-Pin|P5, P6, P7|Header 4|3|WM10667-ND
+3|Teensy Battery, Header 2|Teensy Battery, Header, 2-Pin|P1, P2|Header 2|2|WM10658-ND
+4|L7806CD2T|Linear Voltage Regulator IC Positive Fixed Output 6V 1.5A D2PAK|U1|STMicroelectronics L7806CD2T-TR|1|STMicroelectronics L7806CD2T-TR
+5||Vishay CRCW060347R0FKEAHP|R16|Res1|1|P887KHDKR-ND
+6|330R|Vishay CRCW060347R0FKEAHP|R9|Res1|1|P330BYTR-ND
+7|330R|Vishay CRCW060347R0FKEAHP|R1, R5|Res1|2|P330BYDKR-ND
+8|100k|Panasonic ERJ-PA3F1003V|R4, R8, R12|Res1|3|P100KBYDKR-ND
+9||Vishay CRCW060347R0FKEAHP|R14|Res1|1|P75KBYDKR-ND
+10||Vishay CRCW060347R0FKEAHP|R15|Res1|1|P1.0MBYDKR-ND
+11|1k, 1k, 1k, [NoValue]|Panasonic ERJ-PA3F1001V, Panasonic ERJ-PA3F1001V, Panasonic ERJ-PA3F1001V, Vishay CRCW060347R0FKEAHP|R2, R6, R10, R13|Res1|4|P1.0KBYCT-ND
+12|LTC6994CS6-1|Delay Line IC Programmable Tap 1µs ~ 33.6s SOT-23-6 Thin, TSOT-23-6|U11|Linear Technology LTC6994CS6-1#TRMPBF|1|LTC6994CS6-1#TRMPBFCT-ND
+13|IPB065N03L G|Infineon IPB065N03L G|Q1, Q2, Q3, Q4|MOSFET-N|4|IPB065N03LGINDKR-ND
+14|Sparkfun IMU Breakout|The SparkFun MPU-9250 IMU Breakout features the latest 9-axis MEMS sensor from InvenSense.|U4, U7, U9|Sparkfun IMU Breakout|3|1568-1420-ND
+15|Teensy 3.2|Teensy 3.2 Development Board|U2|PJRC Teensy 3.2|1|1568-1231-ND
+16|Sparkfun MPL3115A2|The MPL3115A2 is a MEMS pressure sensor that provides Altitude data to within 30cm (with oversampling enabled).|U5, U8|Sparkfun MPL3115A2|2|1568-1000-ND
+17|L7806CD2T-TR|Linear Voltage Regulator IC Positive Fixed Output 6V 1.5A D2PAK|U13|STMicroelectronics L7806CD2T-TR|1|497-7258-1-ND
+18|L7805CDT-TR|Linear Voltage Regulator IC Positive Fixed Output 5V 1.5A D-Pak|U12|STMicroelectronics L7805CDT-TR|1|497-7255-2-ND
+19|0.33uF, Cap, 0.33uF|Capacitor|C2, C5, C7|Cap|3|311-2081-6-ND
+20|0.1uF, Cap, Cap, 0.1uF|Capacitor|C1, C3, C6, C8|Cap|4|311-1343-6-ND
+21|4N25-X009|Vishay 4N25-X009|U3, U6, U10|Optoisolator1|3|4N25-X009TDKR-ND
