@@ -191,6 +191,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document10]
+DocumentPath=2017_Avionics_Integrated (Gerber).cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=2017_Avionics_Integrated (NC Drill).cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=2017_Avionics_Integrated_Small (Gerber).cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=2017_Avionics_Integrated_Small (NC Drill).cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Delay_PCB-Plated.TXT
 DItemRevisionGUID=
@@ -244,30 +312,62 @@ DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Dela
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.DRR
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.EXTREP
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.LDP
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.REP
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.RUL
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\Design Rule Check - 2017_Avionics_Delay_PCB.html
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\Design Rule Check - 2017_Avionics_Delay_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Project Outputs for 2017_Avionics_Integrated_PCB\Design Rule Check - 2017_Avionics_Integrated_PCB.html
 DItemRevisionGUID=
 
@@ -650,7 +750,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Canon MG2900 series Printer
+TargetPrinter=HPC4CD41 (HP Officejet 6500 E709n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
