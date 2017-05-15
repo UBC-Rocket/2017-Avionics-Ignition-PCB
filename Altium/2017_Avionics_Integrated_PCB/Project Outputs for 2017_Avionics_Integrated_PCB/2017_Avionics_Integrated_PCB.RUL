@@ -1,5 +1,5 @@
 DRC Rules Export File for PCB: C:\Users\thekenu\Documents\UBC(GitHub)\UBC Rocket\2017-Avionics-Ignition-PCB\Altium\2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.PcbDoc
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=13.78
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
