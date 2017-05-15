@@ -1,0 +1,43 @@
+Change Physical Footprint: Designator=C1 Old Footprint=Yageo CC0603ZRY5V9BB104 (1608) New Footprint=Yageo CC0603ZRY5V9BB104 (1608)
+Change Physical Footprint: Designator=C2 Old Footprint=Yageo CC0603ZRY5V9BB104 (1608) New Footprint=Yageo CC0603ZRY5V9BB104 (1608)
+Change Physical Footprint: Designator=C3 Old Footprint=Yageo CC0603ZRY5V9BB104 (1608) New Footprint=Yageo CC0603ZRY5V9BB104 (1608)
+Change Physical Footprint: Designator=C5 Old Footprint=Yageo CC0603ZRY5V9BB104 (1608) New Footprint=Yageo CC0603ZRY5V9BB104 (1608)
+Change Physical Footprint: Designator=C6 Old Footprint=Yageo CC0603ZRY5V9BB104 (1608) New Footprint=Yageo CC0603ZRY5V9BB104 (1608)
+Change Physical Footprint: Designator=C7 Old Footprint=Yageo CC0603ZRY5V9BB104 (1608) New Footprint=Yageo CC0603ZRY5V9BB104 (1608)
+Change Physical Footprint: Designator=C8 Old Footprint=Yageo CC0603ZRY5V9BB104 (1608) New Footprint=Yageo CC0603ZRY5V9BB104 (1608)
+Change Physical Footprint: Designator=P1 Old Footprint=Microfit 2-pin header New Footprint=Microfit 2-pin header
+Change Physical Footprint: Designator=P2 Old Footprint=Microfit 2-pin header New Footprint=Microfit 2-pin header
+Change Physical Footprint: Designator=P3 Old Footprint=Microfit 8-pin header New Footprint=Microfit 8-pin header
+Change Physical Footprint: Designator=P5 Old Footprint=MICROFIT 4-PIN HEADER New Footprint=MICROFIT 4-PIN HEADER
+Change Physical Footprint: Designator=P6 Old Footprint=MICROFIT 4-PIN HEADER New Footprint=MICROFIT 4-PIN HEADER
+Change Physical Footprint: Designator=P7 Old Footprint=MICROFIT 4-PIN HEADER New Footprint=MICROFIT 4-PIN HEADER
+Change Physical Footprint: Designator=Q1 Old Footprint=Infineon Technologies IPB055N03L G New Footprint=Infineon Technologies IPB055N03L G
+Change Physical Footprint: Designator=Q2 Old Footprint=Infineon Technologies IPB055N03L G New Footprint=Infineon Technologies IPB055N03L G
+Change Physical Footprint: Designator=Q3 Old Footprint=Infineon Technologies IPB055N03L G New Footprint=Infineon Technologies IPB055N03L G
+Change Physical Footprint: Designator=Q4 Old Footprint=Infineon Technologies IPB055N03L G New Footprint=Infineon Technologies IPB055N03L G
+Change Physical Footprint: Designator=R1 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R2 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R4 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R5 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R6 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R8 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R9 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R10 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R12 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R13 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R14 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R15 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=R16 Old Footprint=Panasonic ERJ-Series (1608) New Footprint=Panasonic ERJ-Series (1608)
+Change Physical Footprint: Designator=U1 Old Footprint=STMicroelectronics L7806CD2T-TR New Footprint=STMicroelectronics L7806CD2T-TR
+Change Physical Footprint: Designator=U2 Old Footprint=PJRC TEENSY 3.2 New Footprint=PJRC TEENSY 3.2
+Change Physical Footprint: Designator=U3 Old Footprint=Vishay Semiconductors 4N25-X009 New Footprint=Vishay Semiconductors 4N25-X009
+Change Physical Footprint: Designator=U4 Old Footprint=Sparkfun IMU Breakout New Footprint=Sparkfun IMU Breakout
+Change Physical Footprint: Designator=U5 Old Footprint=Sparkfun MPL3115A2 New Footprint=Sparkfun MPL3115A2
+Change Physical Footprint: Designator=U6 Old Footprint=Vishay Semiconductors 4N25-X009 New Footprint=Vishay Semiconductors 4N25-X009
+Change Physical Footprint: Designator=U7 Old Footprint=Sparkfun IMU Breakout New Footprint=Sparkfun IMU Breakout
+Change Physical Footprint: Designator=U8 Old Footprint=Sparkfun MPL3115A2 New Footprint=Sparkfun MPL3115A2
+Change Physical Footprint: Designator=U9 Old Footprint=Sparkfun IMU Breakout New Footprint=Sparkfun IMU Breakout
+Change Physical Footprint: Designator=U10 Old Footprint=Vishay Semiconductors 4N25-X009 New Footprint=Vishay Semiconductors 4N25-X009
+Change Physical Footprint: Designator=U11 Old Footprint=Linear Technology LTC6994CS6-1#TRMPBF New Footprint=Linear Technology LTC6994CS6-1#TRMPBF
+Change Physical Footprint: Designator=U12 Old Footprint=STMicroelectronics L7805CDT-TR New Footprint=STMicroelectronics L7805CDT-TR
+Change Physical Footprint: Designator=U13 Old Footprint=STMicroelectronics L7806CD2T-TR New Footprint=STMicroelectronics L7806CD2T-TR

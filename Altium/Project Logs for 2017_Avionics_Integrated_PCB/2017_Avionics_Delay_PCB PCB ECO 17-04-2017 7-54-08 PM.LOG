@@ -1,0 +1,176 @@
+Added Component: Designator=C1(Yageo CC0603ZRY5V9BB104 (1608))
+Added Component: Designator=C2(Yageo CC0603ZRY5V9BB104 (1608))
+Added Component: Designator=C7(Yageo CC0603ZRY5V9BB104 (1608))
+Added Component: Designator=C8(Yageo CC0603ZRY5V9BB104 (1608))
+Added Component: Designator=P1(Microfit 2-pin header)
+Added Component: Designator=P2(Microfit 2-pin header)
+Added Component: Designator=P3(Microfit 8-pin header)
+Added Component: Designator=Q1(Infineon Technologies IPB055N03L G)
+Added Component: Designator=Q2(Infineon Technologies IPB055N03L G)
+Added Component: Designator=Q3(Infineon Technologies IPB055N03L G)
+Added Component: Designator=R1(Panasonic ERJ-Series (1608))
+Added Component: Designator=R2(Panasonic ERJ-Series (1608))
+Added Component: Designator=R4(Panasonic ERJ-Series (1608))
+Added Component: Designator=R5(Panasonic ERJ-Series (1608))
+Added Component: Designator=R6(Panasonic ERJ-Series (1608))
+Added Component: Designator=R8(Panasonic ERJ-Series (1608))
+Added Component: Designator=R9(Panasonic ERJ-Series (1608))
+Added Component: Designator=R10(Panasonic ERJ-Series (1608))
+Added Component: Designator=R12(Panasonic ERJ-Series (1608))
+Added Component: Designator=U1(STMicroelectronics L7806CD2T-TR)
+Added Component: Designator=U2(PJRC TEENSY 3.2)
+Added Component: Designator=U3(Vishay Semiconductors 4N25-X009)
+Added Component: Designator=U4(Sparkfun IMU Breakout)
+Added Component: Designator=U5(Sparkfun MPL3115A2)
+Added Component: Designator=U6(Vishay Semiconductors 4N25-X009)
+Added Component: Designator=U7(Sparkfun IMU Breakout)
+Added Component: Designator=U8(Sparkfun MPL3115A2)
+Added Component: Designator=U9(Sparkfun IMU Breakout)
+Added Component: Designator=U10(Vishay Semiconductors 4N25-X009)
+Added Component: Designator=U13(STMicroelectronics L7806CD2T-TR)
+Added Pin To Net: NetName=GND_T Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND_T Pin=C2-1
+Added Pin To Net: NetName=+7.4V_T Pin=C2-2
+Added Pin To Net: NetName=GND_I Pin=C7-1
+Added Pin To Net: NetName=DROGUE+_T Pin=C7-2
+Added Pin To Net: NetName=GND_I Pin=C8-1
+Added Pin To Net: NetName=MAIN+_T Pin=C8-2
+Added Pin To Net: NetName=+7.4V_T Pin=P1-1
+Added Pin To Net: NetName=GND_T Pin=P1-2
+Added Pin To Net: NetName=DROGUE+_T Pin=P2-1
+Added Pin To Net: NetName=GND_I Pin=P2-2
+Added Pin To Net: NetName=DROGUE+_T Pin=P3-1
+Added Pin To Net: NetName=DROGUE-_T Pin=P3-2
+Added Pin To Net: NetName=DROGUE+_T Pin=P3-3
+Added Pin To Net: NetName=NOSE-_T Pin=P3-4
+Added Pin To Net: NetName=MAIN+_T Pin=P3-5
+Added Pin To Net: NetName=MAIN-_T Pin=P3-6
+Added Pin To Net: NetName=DROGUE+_T Pin=P3-7
+Added Pin To Net: NetName=GND_I Pin=P3-8
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=DROGUE-_T Pin=Q1-2
+Added Pin To Net: NetName=GND_I Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NOSE-_T Pin=Q2-2
+Added Pin To Net: NetName=GND_I Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=MAIN-_T Pin=Q3-2
+Added Pin To Net: NetName=GND_I Pin=Q3-3
+Added Pin To Net: NetName=T-0 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=DROGUE+_T Pin=R2-2
+Added Pin To Net: NetName=GND_I Pin=R4-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-2
+Added Pin To Net: NetName=T-1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=DROGUE+_T Pin=R6-2
+Added Pin To Net: NetName=GND_I Pin=R8-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R8-2
+Added Pin To Net: NetName=T-2 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=MAIN+_T Pin=R10-2
+Added Pin To Net: NetName=GND_I Pin=R12-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R12-2
+Added Pin To Net: NetName=+7.4V_T Pin=U1-1
+Added Pin To Net: NetName=GND_T Pin=U1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-3
+Added Pin To Net: NetName=T-0 Pin=U2-0
+Added Pin To Net: NetName=T-1 Pin=U2-1
+Added Pin To Net: NetName=T-2 Pin=U2-2
+Added Pin To Net: NetName=3.3V_VCC Pin=U2-3.3V
+Added Pin To Net: NetName=T-3 Pin=U2-3
+Added Pin To Net: NetName=T-5 Pin=U2-5
+Added Pin To Net: NetName=T-6 Pin=U2-6
+Added Pin To Net: NetName=T-7 Pin=U2-7
+Added Pin To Net: NetName=T-8 Pin=U2-8
+Added Pin To Net: NetName=T-9 Pin=U2-9
+Added Pin To Net: NetName=T-10 Pin=U2-10
+Added Pin To Net: NetName=T-13 Pin=U2-13
+Added Pin To Net: NetName=T-18/A4 Pin=U2-18/A4
+Added Pin To Net: NetName=T-19/A5 Pin=U2-19/A5
+Added Pin To Net: NetName=T-21/A7 Pin=U2-21/A7
+Added Pin To Net: NetName=T-22/A8 Pin=U2-22/A8
+Added Pin To Net: NetName=T-23/A9 Pin=U2-23/A9
+Added Pin To Net: NetName=T-29/A18 Pin=U2-29
+Added Pin To Net: NetName=T-30/A19 Pin=U2-30
+Added Pin To Net: NetName=GND_T Pin=U2-GND
+Added Pin To Net: NetName=NetC1_2 Pin=U2-VIN
+Added Pin To Net: NetName=NetR1_2 Pin=U3-1
+Added Pin To Net: NetName=GND_T Pin=U3-2
+Added Pin To Net: NetName=NetQ1_1 Pin=U3-3
+Added Pin To Net: NetName=NetR2_1 Pin=U3-4
+Added Pin To Net: NetName=T-19/A5 Pin=U4-1
+Added Pin To Net: NetName=T-18/A4 Pin=U4-2
+Added Pin To Net: NetName=3.3V_VCC Pin=U4-3
+Added Pin To Net: NetName=GND_T Pin=U4-4
+Added Pin To Net: NetName=T-6 Pin=U4-6
+Added Pin To Net: NetName=T-5 Pin=U4-11
+Added Pin To Net: NetName=T-22/A8 Pin=U5-1
+Added Pin To Net: NetName=T-23/A9 Pin=U5-2
+Added Pin To Net: NetName=T-18/A4 Pin=U5-3
+Added Pin To Net: NetName=T-19/A5 Pin=U5-4
+Added Pin To Net: NetName=3.3V_VCC Pin=U5-5
+Added Pin To Net: NetName=GND_T Pin=U5-6
+Added Pin To Net: NetName=NetR5_2 Pin=U6-1
+Added Pin To Net: NetName=GND_T Pin=U6-2
+Added Pin To Net: NetName=NetQ2_1 Pin=U6-3
+Added Pin To Net: NetName=NetR6_1 Pin=U6-4
+Added Pin To Net: NetName=T-19/A5 Pin=U7-1
+Added Pin To Net: NetName=T-18/A4 Pin=U7-2
+Added Pin To Net: NetName=3.3V_VCC Pin=U7-3
+Added Pin To Net: NetName=GND_T Pin=U7-4
+Added Pin To Net: NetName=T-21/A7 Pin=U7-6
+Added Pin To Net: NetName=T-3 Pin=U7-11
+Added Pin To Net: NetName=T-9 Pin=U8-1
+Added Pin To Net: NetName=T-10 Pin=U8-2
+Added Pin To Net: NetName=T-30/A19 Pin=U8-3
+Added Pin To Net: NetName=T-29/A18 Pin=U8-4
+Added Pin To Net: NetName=3.3V_VCC Pin=U8-5
+Added Pin To Net: NetName=GND_T Pin=U8-6
+Added Pin To Net: NetName=T-29/A18 Pin=U9-1
+Added Pin To Net: NetName=T-30/A19 Pin=U9-2
+Added Pin To Net: NetName=3.3V_VCC Pin=U9-3
+Added Pin To Net: NetName=GND_T Pin=U9-4
+Added Pin To Net: NetName=T-8 Pin=U9-6
+Added Pin To Net: NetName=T-7 Pin=U9-11
+Added Pin To Net: NetName=NetR9_2 Pin=U10-1
+Added Pin To Net: NetName=GND_T Pin=U10-2
+Added Pin To Net: NetName=NetQ3_1 Pin=U10-3
+Added Pin To Net: NetName=NetR10_1 Pin=U10-4
+Added Pin To Net: NetName=DROGUE+_T Pin=U13-1
+Added Pin To Net: NetName=GND_I Pin=U13-2
+Added Pin To Net: NetName=MAIN+_T Pin=U13-3
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component C1 0.1uF
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component C2 0.33uF
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component C7 0.33uF
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component C8 0.1uF
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component P1 Teensy Battery
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component P2 Header 2
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component P3 Header 8
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component Q1 IPB065N03L G
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component Q2 IPB065N03L G
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component Q3 IPB065N03L G
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component R1 100R
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component R2 1k
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component R4 100k
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component R5 100R
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component R6 1k
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component R8 100k
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component R9 100R
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component R10 1k
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component R12 100k
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U1 L7806CD2T
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U2 Teensy 3.2
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U3 4N25-X009
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U4 Sparkfun IMU Breakout
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U5 Sparkfun MPL3115A2
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U6 4N25-X009
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U7 Sparkfun IMU Breakout
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U8 Sparkfun MPL3115A2
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U9 Sparkfun IMU Breakout
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U10 4N25-X009
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U13 L7806CD2T-TR

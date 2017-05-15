@@ -1,0 +1,235 @@
+Change Component Comment : Designator=Q1 Old Comment=IPB055N03L G New Comment=IPB065N03L G  
+Change Component Comment : Designator=Q2 Old Comment=IPB055N03L G New Comment=IPB065N03L G  
+Change Component Comment : Designator=Q3 Old Comment=IPB055N03L G New Comment=IPB065N03L G  
+Change Component Description : Designator=Q1 Old Description=Infineon IPB055N03L G New Description=Infineon IPB065N03L G  
+Change Component Description : Designator=Q2 Old Description=Infineon IPB055N03L G New Description=Infineon IPB065N03L G  
+Change Component Description : Designator=Q3 Old Description=Infineon IPB055N03L G New Description=Infineon IPB065N03L G 
+Added Component: Designator=C3(Yageo CC0603ZRY5V9BB104 (1608))
+Added Component: Designator=C5(Yageo CC0603ZRY5V9BB104 (1608))
+Added Component: Designator=C6(Yageo CC0603ZRY5V9BB104 (1608))
+Added Component: Designator=P5(MICROFIT 4-PIN HEADER)
+Added Component: Designator=P6(MICROFIT 4-PIN HEADER)
+Added Component: Designator=P7(MICROFIT 4-PIN HEADER)
+Added Component: Designator=Q4(Infineon Technologies IPB055N03L G)
+Added Component: Designator=R13(Panasonic ERJ-Series (1608))
+Added Component: Designator=R14(Panasonic ERJ-Series (1608))
+Added Component: Designator=R15(Panasonic ERJ-Series (1608))
+Added Component: Designator=R16(Panasonic ERJ-Series (1608))
+Added Component: Designator=U11(Linear Technology LTC6994CS6-1#TRMPBF)
+Added Component: Designator=U12(STMicroelectronics L7805CDT-TR)
+Added Pin To Net: NetName=+7.4V_C Pin=C5-2
+Added Pin To Net: NetName=+7.4V_C Pin=P5-1
+Added Pin To Net: NetName=+7.4V_C Pin=Q4-1
+Added Pin To Net: NetName=+7.4V_C Pin=U12-1
+Added Net: Name=+7.4V_C
+Added Pin To Net: NetName=+7.4V_I Pin=C7-2
+Added Pin To Net: NetName=+7.4V_I Pin=P2-1
+Added Pin To Net: NetName=+7.4V_I Pin=P3-7
+Added Pin To Net: NetName=+7.4V_I Pin=Q1-1
+Added Pin To Net: NetName=+7.4V_I Pin=Q2-1
+Added Pin To Net: NetName=+7.4V_I Pin=R2-2
+Added Pin To Net: NetName=+7.4V_I Pin=R6-2
+Added Pin To Net: NetName=+7.4V_I Pin=U13-1
+Added Net: Name=+7.4V_I
+Added Pin To Net: NetName=+7.4V_T Pin=C2-2
+Added Pin To Net: NetName=+7.4V_T Pin=P1-1
+Added Pin To Net: NetName=+7.4V_T Pin=U1-1
+Added Net: Name=+7.4V_T
+Added Pin To Net: NetName=3.3V_VCC Pin=U2-3.3V
+Added Pin To Net: NetName=3.3V_VCC Pin=U4-3
+Added Pin To Net: NetName=3.3V_VCC Pin=U5-5
+Added Pin To Net: NetName=3.3V_VCC Pin=U7-3
+Added Pin To Net: NetName=3.3V_VCC Pin=U8-5
+Added Pin To Net: NetName=3.3V_VCC Pin=U9-3
+Added Net: Name=3.3V_VCC
+Added Pin To Net: NetName=DROGUE+_C Pin=P6-1
+Added Pin To Net: NetName=DROGUE+_C Pin=P7-1
+Added Pin To Net: NetName=DROGUE+_C Pin=R13-1
+Added Net: Name=DROGUE+_C
+Added Pin To Net: NetName=DROGUE+_T Pin=P3-1
+Added Pin To Net: NetName=DROGUE+_T Pin=Q1-3
+Added Net: Name=DROGUE+_T
+Added Pin To Net: NetName=DROGUE-_C Pin=P6-2
+Added Pin To Net: NetName=DROGUE-_C Pin=P7-2
+Added Net: Name=DROGUE-_C
+Added Pin To Net: NetName=GND_C Pin=C5-1
+Added Pin To Net: NetName=GND_C Pin=C6-1
+Added Pin To Net: NetName=GND_C Pin=P5-2
+Added Pin To Net: NetName=GND_C Pin=P5-4
+Added Pin To Net: NetName=GND_C Pin=R14-1
+Added Pin To Net: NetName=GND_C Pin=R16-1
+Added Pin To Net: NetName=GND_C Pin=U11-2
+Added Pin To Net: NetName=GND_C Pin=U12-3
+Added Net: Name=GND_C
+Added Pin To Net: NetName=GND_I Pin=C7-1
+Added Pin To Net: NetName=GND_I Pin=C8-1
+Added Pin To Net: NetName=GND_I Pin=P2-2
+Added Pin To Net: NetName=GND_I Pin=P3-2
+Added Pin To Net: NetName=GND_I Pin=P3-4
+Added Pin To Net: NetName=GND_I Pin=P3-8
+Added Pin To Net: NetName=GND_I Pin=Q3-3
+Added Pin To Net: NetName=GND_I Pin=R4-1
+Added Pin To Net: NetName=GND_I Pin=R8-1
+Added Pin To Net: NetName=GND_I Pin=R12-1
+Added Pin To Net: NetName=GND_I Pin=U13-2
+Added Net: Name=GND_I
+Added Pin To Net: NetName=GND_T Pin=C1-1
+Added Pin To Net: NetName=GND_T Pin=C2-1
+Added Pin To Net: NetName=GND_T Pin=P1-2
+Added Pin To Net: NetName=GND_T Pin=U1-2
+Added Pin To Net: NetName=GND_T Pin=U2-GND
+Added Pin To Net: NetName=GND_T Pin=U3-2
+Added Pin To Net: NetName=GND_T Pin=U4-4
+Added Pin To Net: NetName=GND_T Pin=U5-6
+Added Pin To Net: NetName=GND_T Pin=U6-2
+Added Pin To Net: NetName=GND_T Pin=U7-4
+Added Pin To Net: NetName=GND_T Pin=U8-6
+Added Pin To Net: NetName=GND_T Pin=U9-4
+Added Pin To Net: NetName=GND_T Pin=U10-2
+Added Net: Name=GND_T
+Added Pin To Net: NetName=MAIN+_C Pin=P6-3
+Added Pin To Net: NetName=MAIN+_C Pin=P7-3
+Added Net: Name=MAIN+_C
+Added Pin To Net: NetName=MAIN+_T Pin=C8-2
+Added Pin To Net: NetName=MAIN+_T Pin=P3-5
+Added Pin To Net: NetName=MAIN+_T Pin=R10-2
+Added Pin To Net: NetName=MAIN+_T Pin=U13-3
+Added Net: Name=MAIN+_T
+Added Pin To Net: NetName=MAIN-_C Pin=P6-4
+Added Pin To Net: NetName=MAIN-_C Pin=P7-4
+Added Net: Name=MAIN-_C
+Added Pin To Net: NetName=MAIN-_T Pin=P3-6
+Added Pin To Net: NetName=MAIN-_T Pin=Q3-1
+Added Net: Name=MAIN-_T
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-3
+Added Pin To Net: NetName=NetC1_2 Pin=U2-VIN
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R15-1
+Added Pin To Net: NetName=NetC3_1 Pin=R16-2
+Added Pin To Net: NetName=NetC3_1 Pin=U11-4
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C6-2
+Added Pin To Net: NetName=NetC3_2 Pin=R15-2
+Added Pin To Net: NetName=NetC3_2 Pin=U11-5
+Added Pin To Net: NetName=NetC3_2 Pin=U12-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R4-2
+Added Pin To Net: NetName=NetQ1_2 Pin=U3-3
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R8-2
+Added Pin To Net: NetName=NetQ2_2 Pin=U6-3
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R12-2
+Added Pin To Net: NetName=NetQ3_2 Pin=U10-3
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=U11-6
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U3-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U3-4
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U6-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U6-4
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U10-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U10-4
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U11-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U11-3
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NOSE+_C Pin=P5-3
+Added Pin To Net: NetName=NOSE+_C Pin=Q4-3
+Added Net: Name=NOSE+_C
+Added Pin To Net: NetName=NOSE+_T Pin=P3-3
+Added Pin To Net: NetName=NOSE+_T Pin=Q2-3
+Added Net: Name=NOSE+_T
+Added Pin To Net: NetName=T-0 Pin=R1-1
+Added Pin To Net: NetName=T-0 Pin=U2-0
+Added Net: Name=T-0
+Added Pin To Net: NetName=T-1 Pin=R5-1
+Added Pin To Net: NetName=T-1 Pin=U2-1
+Added Net: Name=T-1
+Added Pin To Net: NetName=T-2 Pin=R9-1
+Added Pin To Net: NetName=T-2 Pin=U2-2
+Added Net: Name=T-2
+Added Pin To Net: NetName=T-3 Pin=U2-3
+Added Pin To Net: NetName=T-3 Pin=U7-11
+Added Net: Name=T-3
+Added Pin To Net: NetName=T-5 Pin=U2-5
+Added Pin To Net: NetName=T-5 Pin=U4-11
+Added Net: Name=T-5
+Added Pin To Net: NetName=T-6 Pin=U2-6
+Added Pin To Net: NetName=T-6 Pin=U4-6
+Added Net: Name=T-6
+Added Pin To Net: NetName=T-7 Pin=U2-7
+Added Pin To Net: NetName=T-7 Pin=U9-11
+Added Net: Name=T-7
+Added Pin To Net: NetName=T-8 Pin=U2-8
+Added Pin To Net: NetName=T-8 Pin=U9-6
+Added Net: Name=T-8
+Added Pin To Net: NetName=T-9 Pin=U2-9
+Added Pin To Net: NetName=T-9 Pin=U8-1
+Added Net: Name=T-9
+Added Pin To Net: NetName=T-10 Pin=U2-10
+Added Pin To Net: NetName=T-10 Pin=U8-2
+Added Net: Name=T-10
+Added Pin To Net: NetName=T-13 Pin=U2-13
+Added Net: Name=T-13
+Added Pin To Net: NetName=T-18/A4 Pin=U2-18/A4
+Added Pin To Net: NetName=T-18/A4 Pin=U4-2
+Added Pin To Net: NetName=T-18/A4 Pin=U5-3
+Added Pin To Net: NetName=T-18/A4 Pin=U7-2
+Added Net: Name=T-18/A4
+Added Pin To Net: NetName=T-19/A5 Pin=U2-19/A5
+Added Pin To Net: NetName=T-19/A5 Pin=U4-1
+Added Pin To Net: NetName=T-19/A5 Pin=U5-4
+Added Pin To Net: NetName=T-19/A5 Pin=U7-1
+Added Net: Name=T-19/A5
+Added Pin To Net: NetName=T-21/A7 Pin=U2-21/A7
+Added Pin To Net: NetName=T-21/A7 Pin=U7-6
+Added Net: Name=T-21/A7
+Added Pin To Net: NetName=T-22/A8 Pin=U2-22/A8
+Added Pin To Net: NetName=T-22/A8 Pin=U5-1
+Added Net: Name=T-22/A8
+Added Pin To Net: NetName=T-23/A9 Pin=U2-23/A9
+Added Pin To Net: NetName=T-23/A9 Pin=U5-2
+Added Net: Name=T-23/A9
+Added Pin To Net: NetName=T-29/A18 Pin=U2-29
+Added Pin To Net: NetName=T-29/A18 Pin=U8-4
+Added Pin To Net: NetName=T-29/A18 Pin=U9-1
+Added Net: Name=T-29/A18
+Added Pin To Net: NetName=T-30/A19 Pin=U2-30
+Added Pin To Net: NetName=T-30/A19 Pin=U8-3
+Added Pin To Net: NetName=T-30/A19 Pin=U9-2
+Added Net: Name=T-30/A19
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component C3 Cap
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component C5 Cap
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component C6 Cap
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component P5 Nose Cone Ignitor (COTS)
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component P6 COTS Input Signals
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component P7 Drogue & Main Chute Ignitors (COTS)
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component Q4 IPB055N03L G
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component R13 
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component R14 
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component R15 
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component R16 
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component U11 LTC6994CS6-1
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component U12 L7805CDT-TR

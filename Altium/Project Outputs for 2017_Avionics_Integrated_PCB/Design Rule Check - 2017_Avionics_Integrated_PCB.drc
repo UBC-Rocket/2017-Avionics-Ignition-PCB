@@ -1,0 +1,63 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\thekenu\Documents\UBC(GitHub)\UBC Rocket\2017-Avionics-Ignition-PCB\Altium\2017_Avionics_Integrated_PCB\2017_Avionics_Integrated_PCB.PcbDoc
+Date     : 14/05/2017
+Time     : 5:49:19 PM
+
+WARNING: Your board contains 2 shelved polygons - copper connectivity will not be reported correctly. Unshelve polygons and re-run DRC check before  producing manufacturing outputs.
+   Polygon named: Teensy Gound In net GND_T On Bottom Layer
+   Polygon named: Ignition Ground In net MAIN-_T On Bottom Layer
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=10mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.25mm) (Conductor Width=0.25mm) (Air Gap=0.25mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=12mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=100mm) (Prefered=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.05mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Via (-3mm,-38.3mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-25.6mm,25mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-13.9mm,-17.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-23.6mm,19.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-13.9mm,-26.9mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-18.6mm,-34.4mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (-26.2mm,-24.3mm) from Top Layer to Bottom Layer 
+Rule Violations :7
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Violation between Modified Polygon: Polygon Shelved  (Teensy Gound) on Bottom Layer 
+   Violation between Modified Polygon: Polygon Shelved  (Ignition Ground) on Bottom Layer 
+Rule Violations :2
+
+
+Violations Detected : 9
+Time Elapsed        : 00:00:00

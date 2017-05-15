@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=DROGUE+_C Pin=P7-1
+Removed Pin From Net: NetName=DROGUE-_C Pin=P7-2
+Removed Pin From Net: NetName=MAIN+_C Pin=P7-3
+Removed Pin From Net: NetName=MAIN-_C Pin=P7-4
+Change Component Description : Designator=U11 Old Description=Delay Line IC Programmable Tap 1£gs ~ 33.6s SOT-23-6 Thin, TSOT-23-6 New Description=Delay Line IC Programmable Tap 1£gs ~ 33.6s SOT-23-6 Thin, TSOT-23-6
+Added Component: Designator=P7(Microfit 2-pin header)
+Added Component: Designator=R3(Panasonic ERJ-Series (1608))
+Added Component: Designator=U7(Sparkfun MPL3115A2)
+Added Pin To Net: NetName=NetC3_2 Pin=P7-1
+Added Pin To Net: NetName=MAIN-_T Pin=R3-1
+Added Pin To Net: NetName=DROGUE+_C Pin=R3-2
+Added Pin To Net: NetName=T-9 Pin=U7-1
+Added Pin To Net: NetName=T-10 Pin=U7-2
+Added Pin To Net: NetName=T-30/A19 Pin=U7-3
+Added Pin To Net: NetName=T-29/A18 Pin=U7-4
+Added Pin To Net: NetName=3.3V_VCC Pin=U7-5
+Added Pin To Net: NetName=GND_T Pin=U7-6
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component R3 
+Added Member To Class: ClassName=2017_Avionics_Integrated_PCB Member=Component U7 Sparkfun MPL3115A2

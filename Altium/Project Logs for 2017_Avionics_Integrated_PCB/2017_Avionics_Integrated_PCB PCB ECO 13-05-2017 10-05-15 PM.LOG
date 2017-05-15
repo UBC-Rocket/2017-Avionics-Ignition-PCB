@@ -1,0 +1,64 @@
+Added Component: Designator=C3(Yageo CC0603ZRY5V9BB104 (1608))
+Added Component: Designator=C5(Yageo CC0603ZRY5V9BB104 (1608))
+Added Component: Designator=C6(Yageo CC0603ZRY5V9BB104 (1608))
+Added Component: Designator=P5(MICROFIT 4-PIN HEADER)
+Added Component: Designator=P6(MICROFIT 4-PIN HEADER)
+Added Component: Designator=P7(MICROFIT 4-PIN HEADER)
+Added Component: Designator=Q4(Infineon Technologies IPB055N03L G)
+Added Component: Designator=R13(Panasonic ERJ-Series (1608))
+Added Component: Designator=R14(Panasonic ERJ-Series (1608))
+Added Component: Designator=R15(Panasonic ERJ-Series (1608))
+Added Component: Designator=R16(Panasonic ERJ-Series (1608))
+Added Component: Designator=U11(Linear Technology LTC6994CS6-1#TRMPBF)
+Added Component: Designator=U12(STMicroelectronics L7805CDT-TR)
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND_C Pin=C5-1
+Added Pin To Net: NetName=NOSE+_C Pin=C5-2
+Added Pin To Net: NetName=GND_C Pin=C6-1
+Added Pin To Net: NetName=NetC3_2 Pin=C6-2
+Added Pin To Net: NetName=NOSE+_C Pin=P5-1
+Added Pin To Net: NetName=GND_C Pin=P5-2
+Added Pin To Net: NetName=NOSE+_C Pin=P5-3
+Added Pin To Net: NetName=NOSE-_C Pin=P5-4
+Added Pin To Net: NetName=DROGUE+_C Pin=P6-1
+Added Pin To Net: NetName=DROGUE-_C Pin=P6-2
+Added Pin To Net: NetName=MAIN+_C Pin=P6-3
+Added Pin To Net: NetName=MAIN-_C Pin=P6-4
+Added Pin To Net: NetName=DROGUE+_C Pin=P7-1
+Added Pin To Net: NetName=DROGUE-_C Pin=P7-2
+Added Pin To Net: NetName=MAIN+_C Pin=P7-3
+Added Pin To Net: NetName=MAIN-_C Pin=P7-4
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NOSE-_C Pin=Q4-2
+Added Pin To Net: NetName=GND_C Pin=Q4-3
+Added Pin To Net: NetName=DROGUE+_C Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=GND_C Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetC3_1 Pin=R15-1
+Added Pin To Net: NetName=NetC3_2 Pin=R15-2
+Added Pin To Net: NetName=GND_C Pin=R16-1
+Added Pin To Net: NetName=NetC3_1 Pin=R16-2
+Added Pin To Net: NetName=NetR13_2 Pin=U11-1
+Added Pin To Net: NetName=GND_C Pin=U11-2
+Added Pin To Net: NetName=NetR14_2 Pin=U11-3
+Added Pin To Net: NetName=NetC3_1 Pin=U11-4
+Added Pin To Net: NetName=NetC3_2 Pin=U11-5
+Added Pin To Net: NetName=NetQ4_1 Pin=U11-6
+Added Pin To Net: NetName=NOSE+_C Pin=U12-1
+Added Pin To Net: NetName=NetC3_2 Pin=U12-2
+Added Pin To Net: NetName=GND_C Pin=U12-3
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component C3 Cap
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component C5 Cap
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component C6 Cap
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component P5 Nose Cone Ignitor (COTS)
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component P6 COTS Input Signals
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component P7 Drogue & Main Chute Ignitors (COTS)
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component Q4 IPB065N03L G
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component R13 
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component R14 
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component R15 
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component R16 
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component U11 LTC6994CS6-1
+Added Member To Class: ClassName=2017_Avionics_Delay_PCB Member=Component U12 L7805CDT-TR

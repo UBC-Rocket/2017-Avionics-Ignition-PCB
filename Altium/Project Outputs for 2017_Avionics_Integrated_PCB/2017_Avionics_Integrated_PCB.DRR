@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 2017_Avionics_Integrated_PCB.PcbDoc   13/05/2017  10:51:48 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : 2017_Avionics_Integrated_PCB-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             15        PTH        190.75mm (7.51inch)
+T2      0.965mm (38mil)                                           Round             37        PTH        133.13mm (5.24inch)
+T3      1.016mm (40mil)                                           Round             17        PTH        70.67mm (2.78inch)
+T4      1.05mm (41mil)                                            Round             14        PTH        72.53mm (2.86inch)
+T5      1.27mm (50mil)                                            Round             8         PTH        104.83mm (4.13inch)
+T6      3.302mm (130mil)                                          Round             2         PTH        10.16mm (0.40inch)
+T7      3.5mm (138mil)                                            Round             3         PTH        98.27mm (3.87inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              96
+
+Total Processing Time (hh:mm:ss) : 00:00:00
