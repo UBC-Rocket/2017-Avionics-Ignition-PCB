@@ -1,0 +1,3 @@
+Change Component Description : Designator=U11 Old Description=Delay Line IC Programmable Tap 1£gs ~ 33.6s SOT-23-6 Thin, TSOT-23-6 New Description=Delay Line IC Programmable Tap 1£gs ~ 33.6s SOT-23-6 Thin, TSOT-23-6
+Change Net Name : Old Net Name=DROGUE+_T New Net Name=+7.4V_I
+Change Net Name : Old Net Name=GND_T New Net Name=TEENSY_GND
